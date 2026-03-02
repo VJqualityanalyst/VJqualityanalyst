@@ -102,8 +102,8 @@
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/your-profile  <br>
-📧 Email: your-email@example.com  <br>
-📱 Phone: +91 XXXXX XXXXX  <br>
+📧 Email: vijayender.thakur4@gmail.com  <br>
+📱 Phone: Available upon request  <br>
 🌍 Location: India (Open to Remote Opportunities)
 
 ---
