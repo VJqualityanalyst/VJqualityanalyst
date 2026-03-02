@@ -1,66 +1,82 @@
 <h1 align="center">Hi 👋, I'm Vijayender Singh</h1>
-<h3 align="center">Senior QA Automation Engineer | SDET | CI/CD & DevOps Testing Specialist</h3>
+<h3 align="center">🚀 Senior QA Automation Engineer | SDET | CI/CD & DevOps | Building Scalable Test Automation & Release Quality Gates</h3>
+
+<p align="center">
+  <a href="https://github.com/VJqualityanalyst">
+    <img src="https://komarev.com/ghpvc/?username=VJqualityanalyst&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-🔹 QA Automation Engineer with strong experience in enterprise testing  
-🔹 Specialized in End-to-End Test Automation & DevOps pipelines  
-🔹 Passionate about building scalable automation frameworks  
-🔹 Experienced in cross-repo CI/CD orchestration and cloud test execution  
-🔹 Turning manual processes into fully automated quality gates  
+🔹 Senior QA Automation Engineer with enterprise experience  
+🔹 Expert in End-to-End Automation & DevOps pipelines  
+🔹 Specialized in CI/CD test orchestration & quality gates  
+🔹 Strong background in cloud-based execution (TestCloud)  
+🔹 Passionate about building scalable, maintainable frameworks  
+
+✔ Turning complex testing challenges into automated solutions  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 🔹 Automation
+## 🛠️ Tech Stack
+
+### ⚙️ Test Automation
 - Katalon Studio
 - Playwright
 - Selenium WebDriver
 - API Testing (REST)
 
-### 🔹 CI/CD & DevOps
+### 🚀 Performance Testing
+- Apache JMeter
+- k6 (Grafana k6)
+- Load & Stress Testing
+- Performance Analysis & Reporting
+
+### 🔐 Security Testing
+- Burp Suite
+- Web Application Security Testing (OWASP Top 10)
+- Vulnerability Assessment
+- API Security Testing
+
+### 🔄 CI/CD & DevOps
 - GitHub Actions
 - GitLab CI/CD
 - Cross-Repository Pipelines
-- TestCloud Integration
-- TestOps Reporting
 - Docker
+- TestOps Reporting
+- TestCloud Execution
 
-### 🔹 Programming
+### 💻 Programming
 - JavaScript / TypeScript
 - Java
 - SQL
 - Bash
 
-### 🔹 Other Skills
-- Test Framework Design
-- Regression & Smoke Automation
-- QA Strategy & Release Validation
+### 🧠 Tools & Practices
+- Git & Version Control
+- Linux
 - Agile / Scrum
-
----
-
+- Test Strategy & QA Leadership
 ## 🌟 Featured Project
 
 ### ⭐ End-to-End QA Automation DevOps Playbook
 
 🔗 https://github.com/VJqualityanalyst/end-to-end-qa-automation-devops-playbook
 
-Real-world enterprise automation scenarios including:
-
-✔ Katalon + GitLab CI/CD integration  
-✔ Playwright + GitHub Actions pipelines  
-✔ Cross-repository execution  
-✔ Automated quality gates before deployment  
-✔ Test orchestration & reporting  
-✔ Enterprise-level DevOps testing practices  
+✔ Katalon + GitLab CI/CD Integration  
+✔ Playwright + GitHub Actions Pipelines  
+✔ Cross-Repository Execution  
+✔ Automated Quality Gates  
+✔ Enterprise DevOps Testing Scenarios  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VJqualityanalyst&show_icons=true&theme=tokyonight" />
@@ -70,22 +86,39 @@ Real-world enterprise automation scenarios including:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VJqualityanalyst&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJqualityanalyst&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 What I Specialize In
+
+✔ Enterprise Test Automation  
+✔ CI/CD Quality Gates & Release Validation  
+✔ Cross-Repo Pipeline Orchestration  
+✔ Scalable Test Framework Design  
+✔ Cloud Test Execution  
+✔ DevOps-Driven QA  
+
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: vijayender.thakur4@gmail.com  
-💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vijayender-singh-224769159?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+💼 LinkedIn: https://www.linkedin.com/in/vijayender-singh-224769159?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+📧 Email: vijayender.thakur4@gmail.com 
+📱 Phone: Available upon request
+🌍 Location: India (Open to Remote Opportunities)
 
 ---
 
-## 💡 What I Focus On
+## 🚀 Current Focus
 
-✔ Building reliable automation frameworks  
-✔ Ensuring release quality through CI/CD gates  
-✔ Scaling test execution in cloud environments  
-✔ Bringing DevOps practices into QA  
+🔹 Advanced Playwright Automation  
+🔹 DevOps Testing Architecture  
+🔹 Scaling Automation in CI/CD  
+🔹 Building Real-World QA Portfolio Projects  
 
 ---
 
-⭐ *Open to Senior QA Automation / SDET opportunities worldwide*
+⭐ *Open to Senior QA Automation / SDET / DevOps Testing roles worldwide*
