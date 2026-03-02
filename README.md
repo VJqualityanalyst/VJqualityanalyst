@@ -23,8 +23,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### ⚙️ Test Automation
 - Katalon Studio
 - Playwright
