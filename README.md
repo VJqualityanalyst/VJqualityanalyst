@@ -103,7 +103,7 @@
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/vijayender-singh-224769159?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+💼 LinkedIn: https://www.linkedin.com/in/vijayender-singh-224769159
 📧 Email: vijayender.thakur4@gmail.com 
 📱 Phone: Available upon request
 🌍 Location: India (Open to Remote Opportunities)
