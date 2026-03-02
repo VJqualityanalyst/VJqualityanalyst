@@ -76,16 +76,9 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VJqualityanalyst&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VJqualityanalyst&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJqualityanalyst&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VJqualityanalyst&show_icons=true&hide_border=true" />
 </p>
 
 ## 🎯 What I Specialize In
