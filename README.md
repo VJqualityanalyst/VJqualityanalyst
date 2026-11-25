@@ -60,7 +60,10 @@
 - Linux
 - Agile / Scrum
 - Test Strategy & QA Leadership
-## 🌟 Featured Project
+
+---
+
+## 🌟 Featured Projects
 
 ### ⭐ End-to-End QA Automation DevOps Playbook
 
@@ -71,6 +74,17 @@
 ✔ Cross-Repository Execution  
 ✔ Automated Quality Gates  
 ✔ Enterprise DevOps Testing Scenarios  
+
+### 🎭 Playwright Automation Framework
+
+🔗 https://github.com/VJqualityanalyst/playwright-automation-framework
+
+[![Playwright Tests](https://github.com/VJqualityanalyst/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/VJqualityanalyst/playwright-automation-framework/actions/workflows/playwright.yml)
+
+✔ Playwright + TypeScript with Page Object Model  
+✔ Custom Fixtures & Multi-Environment Config (.env)  
+✔ GitHub Actions CI with HTML Reports  
+✔ Beginner-Friendly, Step-by-Step Setup Guide  
 
 ---
 
