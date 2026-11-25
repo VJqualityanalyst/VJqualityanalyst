@@ -117,7 +117,8 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/vijayender-singh-224769159/  <br>
 📧 Email: vijayender.thakur4@gmail.com  <br>
-📱 Phone: Available upon request  <br>
+📧 Alternate Email: mailtovijayender@gmail.com  <br>
+📱 Phone: +91-9882154444  <br>
 🌍 Location: India (Open to Remote Opportunities)
 
 ---
